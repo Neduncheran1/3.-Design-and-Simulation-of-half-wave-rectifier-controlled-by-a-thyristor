@@ -62,5 +62,10 @@ After analysing the simulated output,
 (iv)Write your inference.
 
 ## Simulation
+<img width="1280" height="674" alt="image" src="https://github.com/user-attachments/assets/9f3f7dca-3a81-45ed-8e7a-eba2536f97e3" />
+
 ## Output
+<img width="1280" height="674" alt="image" src="https://github.com/user-attachments/assets/954ccceb-5724-4762-8a39-5aacd0a320f8" />
+
 ## Result
+Thus the half-wave-rectifier-controlled-by-a-thyristor is simulated
