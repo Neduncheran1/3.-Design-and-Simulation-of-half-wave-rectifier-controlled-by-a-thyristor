@@ -4,7 +4,7 @@ To design, simulate and analyse a half wave controlled rectifier using one thyri
 ## APPARATUS REQUIRED
 •	MATLAB
 ## PROCEDURE
-1.	Open MATLAB and click on the icon for SIMULINK as shown below
+1.	Open MATLAB and click on the icon for SIMULINK as shown belown
  <img width="522" height="376" alt="image" src="https://github.com/user-attachments/assets/10099b36-8e13-4c8b-836a-053a0059af89" />
 
 Another way is to open is through START icon of MATLAB Start ⇒ Simulink ⇒ Library  browser. 
